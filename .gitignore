@@ -1,0 +1,5 @@
+# Bagisto kaynak kodu kur.sh tarafından indirilir; bu depoya girmez.
+/bagisto/
+
+# Makineye özgü ortam ayarları (şablon: .env.example).
+/.env
